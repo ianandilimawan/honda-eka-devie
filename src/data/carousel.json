@@ -1,0 +1,44 @@
+{
+  "slides": [
+    {
+      "id": "1",
+      "image": "https://images.unsplash.com/photo-1558981403-c5f9899aacbc?w=1920&q=80",
+      "title": "Temukan Motor Honda",
+      "subtitle": "Impian Anda",
+      "cta": "Lihat Produk",
+      "link": "/products",
+      "category": "Sport",
+      "active": true
+    },
+    {
+      "id": "2",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1920&q=80",
+      "title": "PCX160",
+      "subtitle": "Premium & Elegan",
+      "cta": "Lihat Produk",
+      "link": "/products?category=scooter",
+      "category": "Scooter",
+      "active": true
+    },
+    {
+      "id": "3",
+      "image": "https://images.unsplash.com/photo-1552744526-456a955e82f3?w=1920&q=80",
+      "title": "Vario Series",
+      "subtitle": "Sporti & Modern",
+      "cta": "Lihat Produk",
+      "link": "/products?category=matic",
+      "category": "Matic",
+      "active": true
+    },
+    {
+      "id": "4",
+      "image": "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?w=1920&q=80",
+      "title": "CBR250RR",
+      "subtitle": "Performa Maksimal",
+      "cta": "Lihat Produk",
+      "link": "/products?category=sport",
+      "category": "Sport",
+      "active": true
+    }
+  ]
+}

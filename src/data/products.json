@@ -1,0 +1,284 @@
+{
+  "products": [
+    {
+      "id": "cbr150r",
+      "name": "New CBR150R",
+      "category": "Sport",
+      "price": 39270000,
+      "image": "https://images.unsplash.com/photo-1558981403-c5f9899aacbc?w=600&q=80",
+      "description": "New CBR150R hadir dengan tampilan lebih agresif dan sporty. Dilengkapi dengan teknologi Honda Selectable Torque Control (HSTC) untuk kontrol traksi optimal dan LED headlight dengan desain tajam.",
+      "specs": {
+        "engine": "149.16cc, 4-langkah, DOHC",
+        "power": "16.9 PS @ 9000 rpm",
+        "transmission": "6-speed manual",
+        "fuelCapacity": "12 liter",
+        "weight": "137 kg"
+      },
+      "features": [
+        "LED Headlight with Sharp Design",
+        "Digital Speedometer",
+        "Honda Selectable Torque Control (HSTC)",
+        "Assist Slipper Clutch"
+      ],
+      "isFeatured": true
+    },
+    {
+      "id": "cbr250rr",
+      "name": "New CBR250RR",
+      "category": "Sport",
+      "price": 68500000,
+      "image": "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?w=600&q=80",
+      "description": "CBR250RR dengan mesin 4-silinder segitiga yang powerful. Dilengkapi dengan fitur Quick Shifter dan suspension berkualitas tinggi untuk performa maksimal di lintasan.",
+      "specs": {
+        "engine": "249.7cc, 4-silinder, DOHC",
+        "power": "41 PS @ 12500 rpm",
+        "transmission": "6-speed manual",
+        "fuelCapacity": "14.5 liter",
+        "weight": "168 kg"
+      },
+      "features": [
+        "Quick Shifter",
+        "Show USD Front Fork",
+        "LED Full Fairing",
+        "Dual LED Headlight"
+      ],
+      "isFeatured": true
+    },
+    {
+      "id": "pcx160",
+      "name": "New PCX160",
+      "category": "Scooter",
+      "price": 32850000,
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80",
+      "description": "New PCX160 hadir dengan desain premium dan mesin baru yang lebih powerful. Dilengkapi dengan Smart Key System dan desain yang elegan untuk pengguna yang menghargai kenyamanan.",
+      "specs": {
+        "engine": "156.9cc, 4-langkah, SOHC",
+        "power": "15.8 PS @ 8500 rpm",
+        "transmission": "CVT Automatic",
+        "fuelCapacity": "5.5 liter",
+        "weight": "132 kg"
+      },
+      "features": [
+        "Smart Key System",
+        "LED Lights",
+        "Combined Braking System",
+        "USB Charging Port"
+      ],
+      "isFeatured": true
+    },
+    {
+      "id": "stylo160",
+      "name": "New Stylo 160",
+      "category": "Scooter",
+      "price": 25900000,
+      "image": "https://images.unsplash.com/photo-1609630875171-b1321286a115?w=600&q=80",
+      "description": "New Stylo 160 hadir dengan desain fashionable dan premium. Scooter yang sempurna untuk generasi muda yang ingin tampil stylish dan modern.",
+      "specs": {
+        "engine": "156.9cc, 4-langkah, SOHC",
+        "power": "15.8 PS @ 8500 rpm",
+        "transmission": "CVT Automatic",
+        "fuelCapacity": "5.5 liter",
+        "weight": "118 kg"
+      },
+      "features": [
+        "LED Headlight & Taillight",
+        "Smart Key System",
+        "Digital Speedometer",
+        "Spacious Bag Hook"
+      ],
+      "isFeatured": true
+    },
+    {
+      "id": "adv160",
+      "name": "New ADV160",
+      "category": "Scooter",
+      "price": 38900000,
+      "image": "https://images.unsplash.com/photo-1449426468159-d96dbf08f19f?w=600&q=80",
+      "description": "New ADV160 adalah adventure scooter dengan ground clearance tinggi dan desain robust. Cocok untuk penggunaan perkotaan dan jalan off-road ringan.",
+      "specs": {
+        "engine": "156.9cc, 4-langkah, SOHC",
+        "power": "15.8 PS @ 8500 rpm",
+        "transmission": "CVT Automatic",
+        "fuelCapacity": "8.5 liter",
+        "weight": "140 kg"
+      },
+      "features": [
+        "Long Travel Suspension",
+        "Inverted Front Fork",
+        "Smart Key System",
+        "LED Headlight with DRL"
+      ],
+      "isFeatured": true
+    },
+    {
+      "id": "vario125",
+      "name": "All New Vario 125",
+      "category": "Matic",
+      "price": 23800000,
+      "image": "https://images.unsplash.com/photo-1552744526-456a955e82f3?w=600&q=80",
+      "description": "All New Vario 125 tampil semakin sporti dan modern. Dilengkapi dengan fitur-fitur canggih dan desain yang lebih tajam dari generasi sebelumnya.",
+      "specs": {
+        "engine": "124.9cc, 4-langkah, SOHC",
+        "power": "11.4 PS @ 8500 rpm",
+        "transmission": "CVT Automatic",
+        "fuelCapacity": "5.5 liter",
+        "weight": "115 kg"
+      },
+      "features": [
+        "LED Headlight",
+        "Digital Speedometer",
+        "Combi Brake System",
+        "Power Charger"
+      ],
+      "isFeatured": true
+    },
+    {
+      "id": "vario160",
+      "name": "All New Vario 160",
+      "category": "Matic",
+      "price": 28900000,
+      "image": "https://images.unsplash.com/photo-1622185135505-2d795043906a?w=600&q=80",
+      "description": "All New Vario 160 dengan mesin 160cc yang lebih powerful. Desain sporty dengan fitur lengkap untuk kebutuhan harian yang aktif.",
+      "specs": {
+        "engine": "156.9cc, 4-langkah, SOHC",
+        "power": "15.8 PS @ 8500 rpm",
+        "transmission": "CVT Automatic",
+        "fuelCapacity": "5.5 liter",
+        "weight": "118 kg"
+      },
+      "features": [
+        "LED Headlight",
+        "Smart Key System",
+        "Digital Speedometer",
+        "USB Charging Port"
+      ],
+      "isFeatured": true
+    },
+    {
+      "id": "beat",
+      "name": "Beat Street",
+      "category": "Matic",
+      "price": 17800000,
+      "image": "https://images.unsplash.com/photo-1609630875171-b1321286a115?w=600&q=80",
+      "description": "Beat Street adalah matic Urbano dengan desain street-style yang sporty. Cocok untuk generasi muda yang aktif dan dinamis dengan tampilan yang rebellious.",
+      "specs": {
+        "engine": "108.2cc, 4-langkah, SOHC",
+        "power": "8.8 PS @ 7500 rpm",
+        "transmission": "CVT Automatic",
+        "fuelCapacity": "4.2 liter",
+        "weight": "89 kg"
+      },
+      "features": [
+        "Digital Speedometer",
+        "LED Headlamp",
+        "Retractable Hook",
+        "Sporty Muffler"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "genio",
+      "name": "Genio",
+      "category": "Matic",
+      "price": 18900000,
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80",
+      "description": "Genio adalah matic Urbano dengan desain modern dan kompak. Sangat cocok untuk penggunaan sehari-hari di kota dengan tampilannya yang simpel namun elegan.",
+      "specs": {
+        "engine": "108.2cc, 4-langkah, SOHC",
+        "power": "8.8 PS @ 7500 rpm",
+        "transmission": "CVT Automatic",
+        "fuelCapacity": "4.3 liter",
+        "weight": "87 kg"
+      },
+      "features": [
+        "LED Headlamp",
+        "Digital Panel",
+        "Answer Back System",
+        "Anti-Theft Alarm"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "supra-x125",
+      "name": "Supra X 125",
+      "category": "Bebek",
+      "price": 19800000,
+      "image": "https://images.unsplash.com/photo-1591637333184-19aa84b3e01f?w=600&q=80",
+      "description": "Supra X 125 adalah bebek sporty dengan desain agresif dan fitur lengkap. Dilengkapi dengan teknologi PGM-FI untuk efisiensi bahan bakar yang optimal.",
+      "specs": {
+        "engine": "124.99cc, 4-langkah, SOHC",
+        "power": "9.5 PS @ 7500 rpm",
+        "transmission": "4-speed manual",
+        "fuelCapacity": "4.2 liter",
+        "weight": "97 kg"
+      },
+      "features": [
+        "PGM-FI Fuel Injection",
+        "LED Headlight",
+        "Digital Speedometer",
+        "Combined Braking System"
+      ],
+      "isFeatured": true
+    },
+    {
+      "id": "blade125",
+      "name": "Blade 125",
+      "category": "Bebek",
+      "price": 17500000,
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80",
+      "description": "Blade 125 adalah motor bebek dengan desain sporty dan dinamis. Dilengkapi dengan fitur modern dan mesin yang efisien untuk penggunaan harian.",
+      "specs": {
+        "engine": "124.99cc, 4-langkah, SOHC",
+        "power": "9.3 PS @ 7500 rpm",
+        "transmission": "4-speed manual",
+        "fuelCapacity": "4.0 liter",
+        "weight": "95 kg"
+      },
+      "features": [
+        "PGM-FI Fuel Injection",
+        "LED Headlight",
+        "Digital Speedometer",
+        "Engine Stop Switch"
+      ],
+      "isFeatured": false
+    },
+    {
+      "id": "revo-x",
+      "name": "Revo X",
+      "category": "Bebek",
+      "price": 16800000,
+      "image": "https://images.unsplash.com/photo-1591637333184-19aa84b3e01f?w=600&q=80",
+      "description": "Revo X adalah bebek harian yang handal dan efisien. Desain simple dengan performa mesin yang dapat diandalkan untuk aktivitas sehari-hari.",
+      "specs": {
+        "engine": "109.2cc, 4-langkah, SOHC",
+        "power": "8.8 PS @ 7500 rpm",
+        "transmission": "4-speed manual",
+        "fuelCapacity": "4.0 liter",
+        "weight": "93 kg"
+      },
+      "features": [
+        "PGM-FI Fuel Injection",
+        "LED Headlight",
+        "Digital Speedometer",
+        "Front Telescopic Fork"
+      ],
+      "isFeatured": false
+    }
+  ],
+  "siteContent": {
+    "hero": {
+      "title": "Honda E-Catalog",
+      "subtitle": "Temukan motor Honda Impian Anda",
+      "ctaText": "Lihat Koleksi",
+      "ctaLink": "/products"
+    },
+    "footer": {
+      "contactEmail": "",
+      "contactPhone": "0822-3306-0075",
+      "address": "AHASS 03706 - Honda Eka Karunia, Surabaya",
+      "socialFacebook": "",
+      "socialInstagram": "",
+      "socialYoutube": ""
+    }
+  }
+}
