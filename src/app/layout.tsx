@@ -44,8 +44,8 @@ export default function RootLayout({
   return (
     <html lang="id" className={manrope.variable}>
       <head>
-        <link rel="icon" href="/favicon.ico" sizes="any" />
-        <link rel="apple-touch-icon" href="/favicon.ico" />
+        <link rel="icon" href="https://www.astra-honda.com/assets/images/logo/honda.svg" type="image/svg+xml" />
+        <link rel="apple-touch-icon" href="https://www.astra-honda.com/assets/images/logo/honda.svg" />
       </head>
       <body className="min-h-screen flex flex-col bg-[#f8f9fa] font-sans">
         <Header />
