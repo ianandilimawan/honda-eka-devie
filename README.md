@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Devie Honda - E-Catalog
 
-## Getting Started
+E-catalog untuk menampilkan produk motor Honda dengan desain simple dan elegan.
 
-First, run the development server:
+## URLs Penting
+
+- **Home**: http://localhost:3000/
+- **Products**: http://localhost:3000/products
+- **Blog**: http://localhost:3000/blog
+- **Admin CMS**: http://localhost:3000/admin
+  - Password: `hondaadmin123`
+- **WhatsApp**: +62 822-3306-0075
+
+## Cara Menjalankan
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Fitur
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Home**: Hero section, kategori motor, motor重点工作, why choose us, CTA WhatsApp
+- **Products**: Filter berdasarkan kategori (Sport, Scooter, Matic, Bebek), search
+- **Product Detail**: Spesifikasi, fitur, tombol WhatsApp
+- **Blog**: Artikel tips, review, dan berita motor Honda
+- **Admin CMS**: Tambah/Edit/Hapus produk (termasuk kategori), edit konten situs
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## SEO
 
-## Learn More
+- Meta tags untuk Google dan social media
+- Open Graph untuk share ke sosial media
+- Structured data untuk produk dan blog
 
-To learn more about Next.js, take a look at the following resources:
+## Deploy ke Vercel
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Push ke GitHub
+2. Import project di Vercel
+3. Deploy
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Catatan
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Data tersimpan di `src/data/products.json` dan `src/data/blog.json` (tanpa database)
+- Perubahan di admin akan hilang saat redeploy (belum menggunakan database)
+- Gambar menggunakan placeholder dari Unsplash - untuk production disarankan download dan simpan di `public/images/`
